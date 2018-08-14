@@ -1,4 +1,4 @@
-![Linuxbrew logo](http://linuxbrew.sh/images/linuxbrew-256x256.png)
+![Linuxbrew logo](https://linuxbrew.sh/images/linuxbrew-256x256.png)
 
 # Linuxbrew
 [![GitHub release](https://img.shields.io/github/tag/Linuxbrew/brew.svg)](https://github.com/Linuxbrew/brew/releases)
