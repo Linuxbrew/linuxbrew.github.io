@@ -87,7 +87,7 @@ Bottles are Linuxbrew's precompiled binary packages. Linuxbrew bottles work on a
 Extract or `git clone` Linuxbrew wherever you want. Use `/home/linuxbrew/.linuxbrew` if possible.
 
 ```sh
-git clone https://github.com/Linuxbrew/brew ~/.linuxbrew/Homebrew
+git clone https://github.com/Homebrew/brew ~/.linuxbrew/Homebrew
 mkdir ~/.linuxbrew/bin
 ln -s ../Homebrew/bin/brew ~/.linuxbrew/bin
 eval $(~/.linuxbrew/bin/brew shellenv)
