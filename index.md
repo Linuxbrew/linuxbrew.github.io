@@ -2,7 +2,7 @@
 
 # Linuxbrew
 
-[![GitHub release](https://img.shields.io/github/tag/Linuxbrew/brew.svg)](https://github.com/Linuxbrew/brew/releases)
+[![GitHub release](https://img.shields.io/github/release/Homebrew/brew.svg)](https://github.com/Homebrew/brew/releases)
 
 The Homebrew package manager may be used on Linux and Windows 10, using [Windows Subsystem for Linux (WSL)](https://docs.microsoft.com/en-us/windows/wsl/about). Homebrew is referred to as Linuxbrew when running on Linux or Windows. It can be installed in your home directory, in which case it does not use *sudo*. Linuxbrew does not use any libraries provided by your host system, except *glibc* and *gcc* if they are new enough. Linuxbrew can install its own current versions of *glibc* and *gcc* for older distribution of Linux.
 
