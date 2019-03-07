@@ -88,7 +88,7 @@ eval $(~/.linuxbrew/bin/brew shellenv)
 2. Or use `brew search --desc <keyword>` to browse packages from the command line.
 
 ## More Documentation
-`brew help`, `man brew` or check [our documentation](https://github.com/Linuxbrew/brew/tree/master/docs#readme).
+`brew help`, `man brew` or check [our documentation](https://github.com/Homebrew/brew/tree/master/docs#readme).
 
 ## Troubleshooting
 First, please run `brew update` and `brew doctor`.
@@ -99,7 +99,7 @@ Second, read the [Troubleshooting Checklist](https://docs.brew.sh/Troubleshootin
 
 ## Contributing
 
-We'd love you to contribute to Linuxbrew. First, please read our [Contribution Guide](https://github.com/Linuxbrew/brew/blob/master/CONTRIBUTING.md) and [Code of Conduct](https://github.com/Linuxbrew/brew/blob/master/CODE_OF_CONDUCT.md#code-of-conduct). Please see our [guidelines](https://github.com/Linuxbrew/brew/blob/master/CONTRIBUTING.md#contributing-to-linuxbrew) on whether to send pull requests to Linuxbrew or Homebrew.
+We'd love you to contribute to Linuxbrew. First, please read our [Contribution Guide](https://github.com/Homebrew/brew/blob/master/CONTRIBUTING.md) and [Code of Conduct](https://github.com/Homebrew/brew/blob/master/CODE_OF_CONDUCT.md#code-of-conduct).
 
 We explicitly welcome contributions from people who have never contributed to open-source before: we were all beginners once! We can help build on a partially working pull request with the aim of getting it merged. We are also actively seeking to diversify our contributors and especially welcome contributions from women from all backgrounds and people of colour.
 
@@ -138,11 +138,11 @@ Former maintainers with significant contributions include [JCount](https://githu
 ## Linuxbrew Community
 
 - [@Linuxbrew on Twitter](https://twitter.com/Linuxbrew)
-- [Linuxbrew/core on GitHub](https://github.com/Linuxbrew/homebrew-core)
+- [Linuxbrew/core on GitHub](https://github.com/Homebrew/linuxbrew-core)
 - [Linuxbrew category](https://discourse.brew.sh/c/linuxbrew) of [Homebrew's Discourse](https://discourse.brew.sh)
 
 ## License
-Code is under the [BSD 2-clause "Simplified" License](https://github.com/Linuxbrew/brew/blob/master/LICENSE.txt).
+Code is under the [BSD 2-clause "Simplified" License](https://github.com/Homebrew/brew/blob/master/LICENSE.txt).
 Documentation is under the [Creative Commons Attribution license](https://creativecommons.org/licenses/by/4.0/).
 
 ## Donations
